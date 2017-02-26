@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{1CC0C16C-11A6-44CB-86EE-1F2A255B3EA7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>terrania_code_generator</RootNamespace>
+    <RootNamespace>TerraniaCodeGenerator</RootNamespace>
     <ProjectName>TerraniaCodeGenerator</ProjectName>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>

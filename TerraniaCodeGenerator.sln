@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "terrania_code_generator", "terrania_code_generator.vcxproj", "{1CC0C16C-11A6-44CB-86EE-1F2A255B3EA7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TerraniaCodeGenerator", "TerraniaCodeGenerator.vcxproj", "{1CC0C16C-11A6-44CB-86EE-1F2A255B3EA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
