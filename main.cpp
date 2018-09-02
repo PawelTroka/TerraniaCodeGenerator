@@ -44,7 +44,7 @@ int main()
 	unsigned long long int exp = 10000;//1e4
 	std::cout << "Hi! This program will generate the code for " << exp << " experience points in Terrania (Warcraft III: The Frozen Throne) game.\nAt the start of the game type -load <YOUR_CODE>\n\n";
 	std::cout << "Write your nickname: ";
-	std::cin >> nick;
+	std::getline(std::cin, nick);
 
 	std::cout << "Your code for nick '"<< nick <<"' is: " << getCode(nick, exp) << "\n\n";
 	std::cin.get();
