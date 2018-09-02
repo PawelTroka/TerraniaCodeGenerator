@@ -46,7 +46,7 @@ int main()
 	std::cout << "Write your nickname: ";
 	std::cin >> nick;
 
-	std::cout << "Your code is: " << getCode(nick, exp) << "\n\n";
+	std::cout << "Your code for nick '"<< nick <<"' is: " << getCode(nick, exp) << "\n\n";
 	std::cin.get();
 	system("pause");
 }
